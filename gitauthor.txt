@@ -1,0 +1,3 @@
+tony = Tony Cook <tony@develop=help.com>
+addi = Arnar Mar Hrafnkelsson <addi@cpan.org>
+(no author) = Nobody <nobody@example.com>
