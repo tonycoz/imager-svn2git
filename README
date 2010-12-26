@@ -1,0 +1,8 @@
+Not really intended for public consumption, these scripts are in
+development to extract the Imager portions of my svn repo, clean up
+the paths, and convert it to git.
+
+
+The initial commit here is mostly ok, but some older branches
+originally in the CVS repo are being converted under an Imager/ base
+path, which need to be fixed.
